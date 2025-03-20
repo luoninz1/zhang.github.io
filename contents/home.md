@@ -7,7 +7,7 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 <code>XX@XX.XX</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**University of California Irvine**, Bachelor of Science in Applied and Computational Mathematics (2020 – 2025)  
 • GPA: XX/XX  
 
 **XX University**, Exchange student <br>  
